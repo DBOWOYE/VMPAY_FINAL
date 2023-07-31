@@ -1,0 +1,1476 @@
+[
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http.response",
+        "description": "django.http.response",
+        "isExtraImport": true,
+        "detail": "django.http.response",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "JSONParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCard",
+        "importPath": "number_card.models",
+        "description": "number_card.models",
+        "isExtraImport": true,
+        "detail": "number_card.models",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCard",
+        "importPath": "number_card.models",
+        "description": "number_card.models",
+        "isExtraImport": true,
+        "detail": "number_card.models",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCard",
+        "importPath": "number_card.models",
+        "description": "number_card.models",
+        "isExtraImport": true,
+        "detail": "number_card.models",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCard",
+        "importPath": "number_card.models",
+        "description": "number_card.models",
+        "isExtraImport": true,
+        "detail": "number_card.models",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "randint",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "crypter",
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "isExtraImport": true,
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "decrypter",
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "isExtraImport": true,
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "crypter",
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "isExtraImport": true,
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "decrypter",
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "isExtraImport": true,
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "Client",
+        "importPath": "twilio.rest",
+        "description": "twilio.rest",
+        "isExtraImport": true,
+        "detail": "twilio.rest",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_ACCOUNT_SID",
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "isExtraImport": true,
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_AUTH_TOKEN",
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "isExtraImport": true,
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_PHONE_NUMBER",
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "isExtraImport": true,
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CardSerializer",
+        "importPath": "number_card.serializers",
+        "description": "number_card.serializers",
+        "isExtraImport": true,
+        "detail": "number_card.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "customer.models",
+        "description": "customer.models",
+        "isExtraImport": true,
+        "detail": "customer.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "customer.models",
+        "description": "customer.models",
+        "isExtraImport": true,
+        "detail": "customer.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "importPath": "customer.models",
+        "description": "customer.models",
+        "isExtraImport": true,
+        "detail": "customer.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccount",
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "isExtraImport": true,
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccount",
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "isExtraImport": true,
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccount",
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "isExtraImport": true,
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccountSerializer",
+        "importPath": "vmp_account.serializers",
+        "description": "vmp_account.serializers",
+        "isExtraImport": true,
+        "detail": "vmp_account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "Fernet",
+        "importPath": "cryptography.fernet",
+        "description": "cryptography.fernet",
+        "isExtraImport": true,
+        "detail": "cryptography.fernet",
+        "documentation": {}
+    },
+    {
+        "label": "Fernet",
+        "importPath": "cryptography.fernet",
+        "description": "cryptography.fernet",
+        "isExtraImport": true,
+        "detail": "cryptography.fernet",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "djongo",
+        "description": "djongo",
+        "isExtraImport": true,
+        "detail": "djongo",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "utilisateur.models",
+        "description": "utilisateur.models",
+        "isExtraImport": true,
+        "detail": "utilisateur.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.base_user",
+        "description": "django.contrib.auth.base_user",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.base_user",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "gettext_lazy",
+        "importPath": "django.utils.translation",
+        "description": "django.utils.translation",
+        "isExtraImport": true,
+        "detail": "django.utils.translation",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "AuthentificationConfig",
+        "kind": 6,
+        "importPath": "authentification.apps",
+        "description": "authentification.apps",
+        "peekOfCode": "class AuthentificationConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'authentification'",
+        "detail": "authentification.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "authentification.urls",
+        "description": "authentification.urls",
+        "peekOfCode": "urlpatterns = [\n    path('login/', views.login, name=\"login-card\"),\n    path('verification/', views.VerificationApi.as_view()),\n]",
+        "detail": "authentification.urls",
+        "documentation": {}
+    },
+    {
+        "label": "VerificationApi",
+        "kind": 6,
+        "importPath": "authentification.views",
+        "description": "authentification.views",
+        "peekOfCode": "class VerificationApi(APIView):\n    def post(self, request):\n        verification_data = JSONParser().parse(request)\n        phone_number = verification_data['phone_number']\n        print(phone_number)\n        verification_code = str(random.randint(100000, 999999))\n        client = Client(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)\n        message = client.messages.create(\n            body=f\"Votre code d'activation est : {verification_code}\",\n            from_=TWILIO_PHONE_NUMBER,",
+        "detail": "authentification.views",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "authentification.views",
+        "description": "authentification.views",
+        "peekOfCode": "def login(request):\n    card = request.data\n    print(request.data['card_number'])\n    return JsonResponse(card, safe=False)\n    # card_data = JSONParser().parse(request)\n    # print(card_data)\n    # # card_crypt = crypter(card_data['number'])\n    # card_crypt = crypter('794761536')\n    # card = NumberCard.objects.get(card_number=card_crypt).values()\n    # print(card)",
+        "detail": "authentification.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "customer.migrations.0001_initial",
+        "description": "customer.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Customer',\n            fields=[\n                ('customer_id', models.AutoField(primary_key=True, serialize=False)),\n                ('first_name', models.CharField(max_length=100)),",
+        "detail": "customer.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerAdmin",
+        "kind": 6,
+        "importPath": "customer.admin",
+        "description": "customer.admin",
+        "peekOfCode": "class CustomerAdmin(admin.ModelAdmin):\n    list_display = ['phone', 'first_name', 'last_name', 'country', 'town', 'is_active']",
+        "detail": "customer.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerConfig",
+        "kind": 6,
+        "importPath": "customer.apps",
+        "description": "customer.apps",
+        "peekOfCode": "class CustomerConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'customer'",
+        "detail": "customer.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "customer.models",
+        "description": "customer.models",
+        "peekOfCode": "class Customer(models.Model):\n    customer_id = models.AutoField(primary_key=True)\n    first_name = models.CharField(max_length=100)\n    last_name = models.CharField(max_length=100)\n    phone = models.CharField(max_length=16, unique=True)\n    country = models.CharField(max_length=100)\n    town = models.CharField(max_length=100)\n    created_at = models.DateTimeField(auto_now_add=True)\n    is_active = models.BooleanField(default=False)\n    def __str__(self):",
+        "detail": "customer.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerSerializer",
+        "kind": 6,
+        "importPath": "customer.serializers",
+        "description": "customer.serializers",
+        "peekOfCode": "class CustomerSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Customer\n        fields = ['customer_id', 'first_name', 'last_name', 'phone', 'country', 'town', 'is_active']",
+        "detail": "customer.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "customer.urls",
+        "description": "customer.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.customerView.as_view(), name='customer'),\n    path('<int:pk>/', views.CustomerDetail.as_view(), name='customer-detail')\n]",
+        "detail": "customer.urls",
+        "documentation": {}
+    },
+    {
+        "label": "customerView",
+        "kind": 6,
+        "importPath": "customer.views",
+        "description": "customer.views",
+        "peekOfCode": "class customerView(APIView):\n    def get(self, request, format=None):\n        customers = Customer.objects.all()\n        customers_serializer = CustomerSerializer(customers, many=True)\n        return JsonResponse({'customer':customers_serializer.data}, safe=False)\n    def post(self, request, format=None):\n        customer_data = JSONParser().parse(request)\n        customers_serializer = CustomerSerializer(data=customer_data)\n        if customers_serializer.is_valid():\n            with transaction.atomic():",
+        "detail": "customer.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomerDetail",
+        "kind": 6,
+        "importPath": "customer.views",
+        "description": "customer.views",
+        "peekOfCode": "class CustomerDetail(APIView):\n    def get_object(self, pk):\n        try:\n          return Customer.objects.select_related('vmpayaccount').get(customer_id=pk)\n        except:\n          return JsonResponse(\"Customer not found !\", safe=False)\n    def get(self, request, pk, format=None):\n        customer = self.get_object(pk)\n        serializer = CustomerSerializer(customer)\n        return JsonResponse({\"Customer\": serializer.data})",
+        "detail": "customer.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "number_card.migrations.0001_initial",
+        "description": "number_card.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='NumberCard',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('card_number', models.CharField(max_length=255, unique=True)),",
+        "detail": "number_card.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCardAdmin",
+        "kind": 6,
+        "importPath": "number_card.admin",
+        "description": "number_card.admin",
+        "peekOfCode": "class NumberCardAdmin(admin.ModelAdmin):\n    list_display = ('card_number', 'is_used')",
+        "detail": "number_card.admin",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCardConfig",
+        "kind": 6,
+        "importPath": "number_card.apps",
+        "description": "number_card.apps",
+        "peekOfCode": "class NumberCardConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'number_card'",
+        "detail": "number_card.apps",
+        "documentation": {}
+    },
+    {
+        "label": "NumberCard",
+        "kind": 6,
+        "importPath": "number_card.models",
+        "description": "number_card.models",
+        "peekOfCode": "class NumberCard(models.Model):\n    #Création du modele Card\n    card_number = models.CharField(max_length=255, unique=True)\n    is_used = models.BooleanField(default=False)\n    # Redefinition de la methode save pour crypter le champ card_number lors de l'enregistrement\n    \"\"\"def save(self, *args, **kwargs):\n        #Chiffrement du numéro avant de le sauvegarder\n        self.card_number = cypher.encrypt(self.card_number.encode()).decode()\n        super().save(*args, **kwargs)\"\"\"\n    def __str__(self):",
+        "detail": "number_card.models",
+        "documentation": {}
+    },
+    {
+        "label": "CardSerializer",
+        "kind": 6,
+        "importPath": "number_card.serializers",
+        "description": "number_card.serializers",
+        "peekOfCode": "class CardSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = NumberCard\n        fields = ('get_number', 'is_used')",
+        "detail": "number_card.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "number_card.urls",
+        "description": "number_card.urls",
+        "peekOfCode": "urlpatterns = [\n    path('generate/', views.generate_number, name=\"generate\"),\n    path('', views.get_card_number, name = \"cards\"),\n]",
+        "detail": "number_card.urls",
+        "documentation": {}
+    },
+    {
+        "label": "generate_number",
+        "kind": 2,
+        "importPath": "number_card.views",
+        "description": "number_card.views",
+        "peekOfCode": "def generate_number(request):\n    generated_numbers = set()\n    while len(generated_numbers) < 10:\n        number = str(randint(100000000, 999999999))\n        #Créer une fonction de cryptage à part y compris le decryptage\n        encrypt_number = crypter(number)\n        if not NumberCard.objects.filter(card_number=encrypt_number).exists():\n            generated_numbers.add(encrypt_number)\n            NumberCard.objects.create(card_number=encrypt_number)\n    return HttpResponse(\"succès !\")",
+        "detail": "number_card.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_card_number",
+        "kind": 2,
+        "importPath": "number_card.views",
+        "description": "number_card.views",
+        "peekOfCode": "def get_card_number(request, *args, **kwargs):\n    #cards = Card.objects.filter(is_used__in=[False]).values()\n    cards = NumberCard.objects.order_by(\"-id\")\n    cards_serializer = CardSerializer(cards, many=True)\n    return JsonResponse(cards_serializer.data, safe=False)",
+        "detail": "number_card.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "utilisateur.migrations.0001_initial",
+        "description": "utilisateur.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "utilisateur.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "utilisateur.admin",
+        "description": "utilisateur.admin",
+        "peekOfCode": "class UserAdmin(admin.ModelAdmin):\n    list_display = ('email', 'is_active')",
+        "detail": "utilisateur.admin",
+        "documentation": {}
+    },
+    {
+        "label": "UtilisateurConfig",
+        "kind": 6,
+        "importPath": "utilisateur.apps",
+        "description": "utilisateur.apps",
+        "peekOfCode": "class UtilisateurConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'utilisateur'",
+        "detail": "utilisateur.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserManager",
+        "kind": 6,
+        "importPath": "utilisateur.manager",
+        "description": "utilisateur.manager",
+        "peekOfCode": "class CustomUserManager(BaseUserManager):\n    \"\"\"\n    Custom user model manager where email is the unique identifiers\n    for authentication instead of usernames.\n    \"\"\"\n    def create_user(self, email, password, **extra_fields):\n        \"\"\"\n        Create and save a user with the given email and password.\n        \"\"\"\n        if not email:",
+        "detail": "utilisateur.manager",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "utilisateur.models",
+        "description": "utilisateur.models",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(_(\"email address\"), unique=True)    \n    is_staff = models.BooleanField(default=False)\n    is_active = models.BooleanField(default=True)\n    date_joined = models.DateTimeField(default=timezone.now)\n    USERNAME_FIELD = \"email\"\n    REQUIRED_FIELDS = []\n    objects = CustomUserManager()\n    def __str__(self):\n        return self.email",
+        "detail": "utilisateur.models",
+        "documentation": {}
+    },
+    {
+        "label": "crypter",
+        "kind": 2,
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "peekOfCode": "def crypter(val):\n    return fernet.encrypt(val.encode()).decode()\n#Fonction de decryptage\ndef decrypter(val):\n    return fernet.decrypt(val.encode()).decode()",
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "decrypter",
+        "kind": 2,
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "peekOfCode": "def decrypter(val):\n    return fernet.decrypt(val.encode()).decode()",
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "fernet",
+        "kind": 5,
+        "importPath": "utils.cryptography",
+        "description": "utils.cryptography",
+        "peekOfCode": "fernet = Fernet(key)\n#Fonction de cryptage\ndef crypter(val):\n    return fernet.encrypt(val.encode()).decode()\n#Fonction de decryptage\ndef decrypter(val):\n    return fernet.decrypt(val.encode()).decode()",
+        "detail": "utils.cryptography",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Vmpay.asgi",
+        "description": "Vmpay.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Vmpay.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-=%i163dlmy6y*w(0)(3!xk0*5#x9!p+v6#u#1a)brz@#-#&5iu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = \"utilisateur.User\"\n# Application definition",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-=%i163dlmy6y*w(0)(3!xk0*5#x9!p+v6#u#1a)brz@#-#&5iu'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = \"utilisateur.User\"\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\nAUTH_USER_MODEL = \"utilisateur.User\"\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\nAUTH_USER_MODEL = \"utilisateur.User\"\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "AUTH_USER_MODEL = \"utilisateur.User\"\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'corsheaders',\n    'utilisateur',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ORIGIN_ALLOW_ALL",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "CORS_ORIGIN_ALLOW_ALL = True\nMIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "ROOT_URLCONF = 'Vmpay.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates/')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [os.path.join(BASE_DIR, 'templates/')],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'Vmpay.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\n\"\"\"DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\"\"\"\nDATABASES = {",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "\"\"\"DATABASES",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "\"\"\"DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\"\"\"\nDATABASES = {\n    'default': {\n        'ENGINE': 'djongo',\n        'NAME': 'VMPAY_DATA',",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'djongo',\n        'NAME': 'VMPAY_DATA',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'fr-fr'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Twilio sms",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Twilio sms\nTWILIO_ACCOUNT_SID = \"AC47948007e127d6fc5db0e8eb50982aa6\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Twilio sms\nTWILIO_ACCOUNT_SID = \"AC47948007e127d6fc5db0e8eb50982aa6\"\nTWILIO_AUTH_TOKEN = \"61fd025cdb7800caac69dac36c26c28c\"\nTWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "STATICFILES_DIRS = ['static']\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Twilio sms\nTWILIO_ACCOUNT_SID = \"AC47948007e127d6fc5db0e8eb50982aa6\"\nTWILIO_AUTH_TOKEN = \"61fd025cdb7800caac69dac36c26c28c\"\nTWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n# Twilio sms\nTWILIO_ACCOUNT_SID = \"AC47948007e127d6fc5db0e8eb50982aa6\"\nTWILIO_AUTH_TOKEN = \"61fd025cdb7800caac69dac36c26c28c\"\nTWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_ACCOUNT_SID",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "TWILIO_ACCOUNT_SID = \"AC47948007e127d6fc5db0e8eb50982aa6\"\nTWILIO_AUTH_TOKEN = \"61fd025cdb7800caac69dac36c26c28c\"\nTWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_AUTH_TOKEN",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "TWILIO_AUTH_TOKEN = \"61fd025cdb7800caac69dac36c26c28c\"\nTWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TWILIO_PHONE_NUMBER",
+        "kind": 5,
+        "importPath": "Vmpay.settings",
+        "description": "Vmpay.settings",
+        "peekOfCode": "TWILIO_PHONE_NUMBER = \"+12295455410\"",
+        "detail": "Vmpay.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Vmpay.urls",
+        "description": "Vmpay.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('cards/', include(\"number_card.urls\")),\n    path('customer/', include(\"customer.urls\"), name='customers'),\n    path('account/', include(\"vmp_account.urls\")),\n    path('authentification/', include(\"authentification.urls\")),\n]",
+        "detail": "Vmpay.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Vmpay.wsgi",
+        "description": "Vmpay.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Vmpay.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vmp_account.migrations.0001_initial",
+        "description": "vmp_account.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('number_card', '0001_initial'),\n        ('customer', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='VmpayAccount',\n            fields=[",
+        "detail": "vmp_account.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "vmp_account.migrations.0002_depot_retrait_transaction",
+        "description": "vmp_account.migrations.0002_depot_retrait_transaction",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('vmp_account', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Depot',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n            ],",
+        "detail": "vmp_account.migrations.0002_depot_retrait_transaction",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccountAdmin",
+        "kind": 6,
+        "importPath": "vmp_account.admin",
+        "description": "vmp_account.admin",
+        "peekOfCode": "class VmpayAccountAdmin(admin.ModelAdmin):\n    list_display = ['customer', 'number_card', 'balance', 'accurency']",
+        "detail": "vmp_account.admin",
+        "documentation": {}
+    },
+    {
+        "label": "VmpAccountConfig",
+        "kind": 6,
+        "importPath": "vmp_account.apps",
+        "description": "vmp_account.apps",
+        "peekOfCode": "class VmpAccountConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'vmp_account'",
+        "detail": "vmp_account.apps",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccount",
+        "kind": 6,
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "peekOfCode": "class VmpayAccount(models.Model):\n    customer = models.OneToOneField(Customer, on_delete=models.CASCADE)\n    number_card = models.OneToOneField(NumberCard,on_delete=models.CASCADE)\n    balance = models.DecimalField(max_digits=10, decimal_places=2, default=0.00)\n    accurency = models.CharField(max_length=3, default='GNF')\n    #Methode de qui nous permet de deposer de l'argent sur le compte\n    def deposer(self, montant):\n        self.balance +=montant\n    #Methode de qui nous permet de retirer de l'argent sur le compte\n    def retirer(self, montant):",
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Depot",
+        "kind": 6,
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "peekOfCode": "class Depot(models.Model):\n    pass\nclass Retrait(models.Model):\n    pass\nclass Transaction(models.Model):\n    pass",
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Retrait",
+        "kind": 6,
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "peekOfCode": "class Retrait(models.Model):\n    pass\nclass Transaction(models.Model):\n    pass",
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "vmp_account.models",
+        "description": "vmp_account.models",
+        "peekOfCode": "class Transaction(models.Model):\n    pass",
+        "detail": "vmp_account.models",
+        "documentation": {}
+    },
+    {
+        "label": "VmpayAccountSerializer",
+        "kind": 6,
+        "importPath": "vmp_account.serializers",
+        "description": "vmp_account.serializers",
+        "peekOfCode": "class VmpayAccountSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = VmpayAccount\n        fields = ['number_card','customer', 'balance', 'accurency']",
+        "detail": "vmp_account.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "vmp_account.urls",
+        "description": "vmp_account.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", views.AccountView.as_view(), name=\"vmpay-accounts\")\n]",
+        "detail": "vmp_account.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AccountView",
+        "kind": 6,
+        "importPath": "vmp_account.views",
+        "description": "vmp_account.views",
+        "peekOfCode": "class AccountView(APIView):\n    def get(self, request):\n        account = VmpayAccount.objects.all()\n        account_serializer = VmpayAccountSerializer(account, many=True)\n        return JsonResponse(account_serializer.data, safe=False)",
+        "detail": "vmp_account.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Vmpay.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
